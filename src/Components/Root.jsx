@@ -4,7 +4,8 @@ import { Navbar } from './Navbar/Navbar'
 export const Root = () => {
   return (
     <React.Fragment>
-      <Navbar/>
+      <Navbar />
+      This is under navbar
     </React.Fragment>
   )
 }
