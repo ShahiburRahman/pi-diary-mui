@@ -5,7 +5,7 @@ export const Root = () => {
   return (
     <React.Fragment>
       <Navbar />
-      This is under navbar
+      This is under navbar to test other comp
     </React.Fragment>
   )
 }
